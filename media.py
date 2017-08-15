@@ -1,4 +1,4 @@
-#######################################################
+######################################################
 # Project 1: Movie Trailer Website
 # Date Created: 08/11/2017
 # Date Modified: 08/15/2017
@@ -6,7 +6,7 @@
 # Description: This file creates the class Movie
 #              to allow for instances of the class
 #              to be used in the entertainment.py file.
-#######################################################
+######################################################
 
 import webbrowser
 
